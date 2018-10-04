@@ -1,3 +1,3 @@
-var sansImagination = "Suis-je une variable?"
+var sansImagination = "Suis-je une variable?";
 
-alert('sansImagination')
+alert(sansImagination);
